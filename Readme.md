@@ -4,7 +4,7 @@ PyTorch Implementation of the paper "Learning with Non-Uniform Label Noise: A Cl
 
 ### Codes
 
-COMING SOON!
+Code is avaiable in [code](./code)
 
 ### Citation
 
