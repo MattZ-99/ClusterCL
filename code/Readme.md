@@ -1,6 +1,6 @@
 # Noise Label project.
 
-> The code is being updated soon...
+> The code tutorial is being updated soon...
 
 ---
 
